@@ -1,2 +1,3 @@
-# eme6357-module1
-Slide deck for Module 1 of EME6357 
+# EME6357 Module 1
+
+Slide deck for EME6357, Module 1: What is Evaluation?
